@@ -32,9 +32,9 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'DZJ_IM_Framework/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'DZJ_IM_Framework' => ['DZJ_IM_Framework/Assets/*.png']
-  # }
+  s.resource_bundles = {
+    'DZJ_IM_Framework' => ['DZJ_IM_Framework/Classes/IM/Resource']
+  }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
