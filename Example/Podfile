@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DZJ_IM_Framework_Tests' do
+  pod 'DZJ_IM_Framework', :path => '../'
+  
+  
+end
