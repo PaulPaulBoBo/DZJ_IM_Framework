@@ -1,0 +1,22 @@
+{
+  "name": "DZJ_IM_Framework",
+  "version": "0.1.0",
+  "summary": "A short description of DZJ_IM_Framework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liu bo/DZJ_IM_Framework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liu bo": "13621905107@163.com"
+  },
+  "source": {
+    "git": "https://github.com/liu bo/DZJ_IM_Framework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DZJ_IM_Framework/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - DZJ_IM_Framework (0.1.0)
+
+DEPENDENCIES:
+  - DZJ_IM_Framework (from `../`)
+
+EXTERNAL SOURCES:
+  DZJ_IM_Framework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DZJ_IM_Framework: 4c1445198793e2a33e5396543d55f75671c14e29
+
+PODFILE CHECKSUM: bfe159e43f6124548f50529f7220ac331d57e399
+
+COCOAPODS: 1.7.5

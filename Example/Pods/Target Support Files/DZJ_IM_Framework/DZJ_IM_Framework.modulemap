@@ -1,0 +1,6 @@
+framework module DZJ_IM_Framework {
+  umbrella header "DZJ_IM_Framework-umbrella.h"
+
+  export *
+  module * { export * }
+}
